@@ -6,7 +6,7 @@ An interactive digital-logic tool for ECE students and hardware designers. Enter
 table, exact minimized SOP and POS forms, a step-by-step Quine–McCluskey trace, a gate-level diagram, and an equivalence
 check against another expression. Everything runs in the browser: no backend, no accounts, no network requests.
 
-**Live demo:** _add your deployed URL here_
+**Live demo:** https://boolean-expression-solver-three.vercel.app/
 
 <!-- Add a screenshot: ![Boolean Expression Solver](docs/screenshot.png) -->
 
